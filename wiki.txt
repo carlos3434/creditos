@@ -1,0 +1,16 @@
+Install: 
+https://laravel.com/docs/5.6/installation
+
+
+Auth: 
+https://laravel.com/docs/5.6/authentication
+
+
+Template:
+https://github.com/cham11ng/sbadmin-laravel.git
+
+
+Roles y permisos
+https://styde.net/roles-y-permisos-con-spatie-laravel-permission/
+
+
